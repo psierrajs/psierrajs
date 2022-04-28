@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @psierrajs
-- 👀 I’m interested in learning data science
+- 👀 I’m interested in learning web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything related to data analysis
 - 📫 How to reach me reply to this

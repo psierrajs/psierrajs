@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @psierrajs
 - 👀 I’m interested in learning web development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything related to data analysis
+- 🌱 I’m currently learning html, css and JavaScript
+- 💞️ I’m looking to collaborate on anything related to web develpment
 - 📫 How to reach me reply to this
 
 <!---
